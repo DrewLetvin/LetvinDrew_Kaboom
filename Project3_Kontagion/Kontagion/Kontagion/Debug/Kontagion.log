@@ -1,2 +1,19 @@
-﻿  Actor.cpp
-  Kontagion.vcxproj -> D:\UCLA\CS\CS32\Project3_Kontagion\Kontagion\Debug\Kontagion.exe
+﻿  StudentWorld.cpp
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(41): warning C4018: '<': signed/unsigned mismatch
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(92): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(139): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(140): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(152): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(153): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(178): warning C4018: '<': signed/unsigned mismatch
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(224): warning C4018: '<': signed/unsigned mismatch
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(237): warning C4018: '<': signed/unsigned mismatch
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(250): warning C4018: '<': signed/unsigned mismatch
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(265): warning C4018: '<': signed/unsigned mismatch
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(294): warning C4018: '<': signed/unsigned mismatch
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(312): warning C4018: '<': signed/unsigned mismatch
+d:\ucla\cs\cs32\letvindrew_kaboom\project3_kontagion\kontagion\kontagion\studentworld.cpp(320): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Kontagion.vcxproj -> D:\UCLA\CS\CS32\LetvinDrew_Kaboom\Project3_Kontagion\Kontagion\Debug\Kontagion.exe
